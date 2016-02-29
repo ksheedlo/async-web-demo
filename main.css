@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.screen {
+  padding-bottom: 90px;
+}
+
+.screen-contents {
+  position: absolute;
+  bottom: 90px;
+}
+
+.message {
+  display: inline-block;
+}
+
+.controls {
+  position: absolute;
+  bottom: 0;
+}
+
+.controls__form {
+  padding: 20px;
+}
+
+.u__full-height {
+  height: 100%;
+}
+
+.u__position-scope {
+  position: relative;
+}
+
+.u__pointer {
+  cursor: pointer;
+}
